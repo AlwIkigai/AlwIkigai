@@ -35,6 +35,5 @@ This profile is a curated index of my public projects.
 ---
 
 ## 🔒 Private / In Progress
-- Runyx (mobile)
 - Personal landing site
 - Selected experiments (available on request)
