@@ -1,7 +1,7 @@
 ## 🔥 Featured
 - **[Stridex](https://github.com/AlwIkigai/stridex-overview)**  
   Public overview + live demo (source code private)
-  
+
 ---
 
 ## 🧠 42 Core C Projects
@@ -22,6 +22,6 @@
 ---
 
 ## 🔒 Private / In Progress
-- Personal landing site
+- Personal landing site  
 - Selected experiments  
 *(Available on request)*
