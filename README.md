@@ -1,4 +1,8 @@
 ## 🔥 Featured
+
+- **[Oh, My Bills!](https://www.alwikigai.com/projects/oh-my-bills)**  
+  Private, offline-first mobile bill and liability tracker focused on what is open, what is paid, and what is due next. Source code is private.
+
 - **[Stridex](https://github.com/AlwIkigai/stridex-overview)**  
   Public overview + live demo (source code private)
 
@@ -22,6 +26,7 @@
 ---
 
 ## 🔒 Private / In Progress
-- Personal landing site  
-- Selected experiments  
+- Personal landing site
+- Selected experiments
+
 *(Available on request)*
