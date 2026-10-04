@@ -25,6 +25,12 @@
 
 ---
 
+## ☕ Support
+
+If my independent development work has been useful to you, you can support it on [Ko-fi](https://ko-fi.com/alwikigai). Support is optional and helps with the time and costs of building, testing, and maintaining projects like Oh, My Bills!.
+
+---
+
 ## 🔒 Private / In Progress
 - Personal landing site
 - Selected experiments
